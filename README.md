@@ -1,16 +1,17 @@
-## Hi there 👋
+👋 Hi, I’m Satyam
 
-<!--
-**satyambuilds/satyambuilds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Building Webmingal — open-source automation platform
+Zapier-like workflows, webhooks, AI routing, and integrations.
 
-Here are some ideas to get you started:
+🔥 Current Focus
+- Workflow engine
+- Google Sheets, Gmail, Slack integrations
+- AI-based intent → schema generation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Stats
+- 2.5k+ contributions goal (2026)
+- Daily public commits
+
+🔗 Links
+- GitHub repos
+- Live demo (if any)
