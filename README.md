@@ -1,17 +1,32 @@
-👋 Hi, I’m Satyam
+## 👋 Hi, I’m Satyam
 
-🚀 Building Webmingal — open-source automation platform
-Zapier-like workflows, webhooks, AI routing, and integrations.
+I’m a software engineer building **Webmingal** — an open-source automation platform inspired by Zapier and Pipedream.
 
-🔥 Current Focus
-- Workflow engine
+Webmingal focuses on **webhooks, workflow orchestration, and AI-driven intent → schema generation**, making automation simpler for developers and non-technical users.
+
+---
+
+### 🚀 What I’m Building
+- Visual workflow engine
+- Webhook-based triggers
 - Google Sheets, Gmail, Slack integrations
-- AI-based intent → schema generation
+- AI-powered workflow & data mapping
 
-📊 Stats
-- 2.5k+ contributions goal (2026)
-- Daily public commits
+---
 
-🔗 Links
-- GitHub repos
-- Live demo (if any)
+### 🔥 Current Focus
+- Core execution engine & reliability
+- Schema inference from real-world payloads
+- Scalable integrations architecture
+
+---
+
+### 📊 Commitment
+- 🎯 2.5k+ GitHub contributions target (2026)
+- 📅 Daily public commits
+- 🧠 Building in public
+
+---
+
+### 🔗 Links
+- 🌐 Live demo: [webmingal.com](webmingal.com)
